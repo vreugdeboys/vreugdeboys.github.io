@@ -30,12 +30,16 @@ a {
   font-weight: bold;
 }
 
-a :hover {
+a:hover {
   text-decoration: underline overline 1px red;
 }
 
-a :visited {
+a:visited {
   background: pink;
+}
+
+a:active {
+  font-size: 2em;
 }
 
 
