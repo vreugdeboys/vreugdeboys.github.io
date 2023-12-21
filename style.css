@@ -15,8 +15,11 @@ h1 {
   margin: 0px, 0px, 50px;
   color: AliceBlue;
   background: MediumBlue;
+  padding: 10px;
 }
 
 h2 {
   margin: 50px, 0px, 20px;
+  border-bottom: solid 2px MediumBlue;
+  padding-bottom: 4px;
 }
