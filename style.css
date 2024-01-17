@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  text-decoration: underline overline 1px red;
+  background: CornflowerBlue 0.5em;
 }
 
 a:visited {
