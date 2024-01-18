@@ -45,6 +45,6 @@ a:active {
 }
 
 quote {
-  font-family: Lucida Console, Courier New, monospace;
   border-bottom: solid 2px NavyBlue;
+  font-family: Lucida Console, Courier New, monospace;
 }
