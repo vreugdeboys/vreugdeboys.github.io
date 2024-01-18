@@ -35,7 +35,7 @@ a:hover {
 }
 
 a:visited {
-  text-decoration: italic;
+  font-style: italic;
 }
 
 a:active {
@@ -44,6 +44,6 @@ a:active {
 }
 
 quote {
-  border-bottom: solid 2px NavyBlue;
+  border-bottom: solid 2px Navy;
   font-family: Lucida Console, Courier New, monospace;
 }
