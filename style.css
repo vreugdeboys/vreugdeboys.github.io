@@ -62,7 +62,7 @@ tr {
   padding: 2px 0px;
 }
 
-tr::first {
+tr:first {
   border-bottom: solid 1px blue;
 }
 
