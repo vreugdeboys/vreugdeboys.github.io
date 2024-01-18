@@ -44,12 +44,12 @@ a:active {
 }
 
 quote {
-  margin-top: 3em;
+  margin-top: 30em;
   margin-right: auto;
-  margin-bottom: 3px;
-  margin-left: auto;
+  margin-bottom: 300px;
+  margin-left: 1000px;
   border: solid 1.5px Navy;
-  padding: 4px 4px;
+  padding: 40px 40px;
   text-align: right;
   font-family: Lucida Console, Courier New, monospace;
 }
@@ -63,7 +63,7 @@ table {
 }
 
 tr {
-  background: #8080CD;
+  background: #4080CD;
   margin: 2px 0px;
   padding: 2px 0px;
 }
