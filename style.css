@@ -45,7 +45,7 @@ a:active {
 
 quote {
   margin: 3em, auto, 3px;
-  border: solid 1px Navy;
+  border: solid 1.5px Navy;
   padding: 4px 4px;
   text-align: right;
   font-family: Lucida Console, Courier New, monospace;
@@ -60,7 +60,7 @@ table {
 }
 
 tr {
-  background: #0000C0;
+  background: #000080;
   margin: 2px 0px;
   padding: 2px 0px;
 }
