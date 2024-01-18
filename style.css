@@ -57,7 +57,7 @@ table {
 }
 
 tr {
-  background: #CFF;
+  background: DeepSkyBlue;
   margin: 2px 0px;
   padding: 2px 0px;
 }
@@ -72,10 +72,10 @@ th, td {
 
 th {
   font-weight: bold;
-  text-shadow: 1px 1px LightBlue;
+  text-shadow: 2px 2px 3px LightBlue;
 }
 
 td {
-  padding-left: 3px;
-  padding-right: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
