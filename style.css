@@ -44,7 +44,10 @@ a:active {
 }
 
 quote {
-  border-bottom: solid 2px Navy;
+  margin: auto;
+  border: solid 1px Navy;
+  padding: 4px 4px;
+  text-align: right;
   font-family: Lucida Console, Courier New, monospace;
 }
 
