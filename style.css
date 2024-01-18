@@ -31,7 +31,8 @@ a {
 }
 
 a:hover {
-  background: CornflowerBlue 5px;
+  background-color: CornflowerBlue;
+  background-position: bottom;
 }
 
 a:visited {
@@ -43,4 +44,7 @@ a:active {
   color: MediumBlue;
 }
 
-
+quote {
+  font-family: Lucida Console, Courier New, monospace;
+  border-bottom: solid 2px NavyBlue;
+}
