@@ -47,3 +47,30 @@ quote {
   border-bottom: solid 2px Navy;
   font-family: Lucida Console, Courier New, monospace;
 }
+
+table {
+  margin: 2em, auto;
+  border: solid 2px blue, none;
+  padding: 2px, 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+tr {
+  background: #FFD;
+  margin: 2px 0px;
+  padding: 2px 0px;
+}
+
+tr::first {
+  border-bottom: solid 1px blue;
+}
+
+th {
+  font-weight: bold;
+  text-shadow: 1px 1px LightBlue;
+}
+
+td {
+  padding-left: 3px;
+  padding-right: 3px;
+}
