@@ -44,7 +44,10 @@ a:active {
 }
 
 quote {
-  margin: 3em, auto, 3px;
+  margin-top: 3em;
+  margin-right: auto;
+  margin-bottom: 3px;
+  margin-left: auto;
   border: solid 1.5px Navy;
   padding: 4px 4px;
   text-align: right;
