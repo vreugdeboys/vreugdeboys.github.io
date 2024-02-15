@@ -83,3 +83,8 @@ td {
   padding-left: 5px;
   padding-right: 5px;
 }
+
+img {
+  padding: 7px 5px;
+  border: solid 2px SteelBlue;
+}
